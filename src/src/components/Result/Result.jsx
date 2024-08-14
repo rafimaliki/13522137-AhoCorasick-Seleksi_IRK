@@ -1,4 +1,3 @@
-// Result.js
 import React, { useState } from "react";
 import TextDisplay from "./TextDisplay";
 import ResultList from "./ResultList";

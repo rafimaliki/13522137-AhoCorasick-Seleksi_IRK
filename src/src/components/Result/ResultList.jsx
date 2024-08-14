@@ -1,4 +1,3 @@
-// ResultList.js
 import React from "react";
 import ResultItem from "./ResultItem";
 
