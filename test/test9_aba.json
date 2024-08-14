@@ -1,0 +1,4 @@
+{
+  "text": "aaabaa",
+  "patterns": ["a", "aa", "aaa", "aaaa", "aaaaa", "aaaaaa"]
+}

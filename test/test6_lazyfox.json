@@ -1,0 +1,24 @@
+{
+  "text": "the quick brown fox jumps over the lazy dog. The quick brown fox is quick and clever. Foxes are quick animals that are known for their cleverness. The quick fox jumps over the lazy dog in a quick brown fox race.",
+  "patterns": [
+    "quick",
+    "fox",
+    "lazy",
+    "dog",
+    "jumps",
+    "clever",
+    "animals",
+    "race",
+    "the",
+    "brown",
+    "over",
+    "known",
+    "for",
+    "their",
+    "are",
+    "in",
+    "and",
+    "is",
+    "a"
+  ]
+}
