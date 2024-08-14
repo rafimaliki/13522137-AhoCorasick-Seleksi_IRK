@@ -47,7 +47,7 @@ http://localhost:5173/
 
 Tombol:
 1. "Import data"
-   Pengguna dapat meng-import struktur papan menggunakan file .json dengan format sebagai berikut
+   Pengguna dapat meng-import data menggunakan file .json dengan format sebagai berikut
     ```json
      {
        "text": "saya sangat suka matkul irk. saya jadi ingin makan ayam.",
